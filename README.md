@@ -1,6 +1,7 @@
 <div align="center">
 
 Git & GitHub Operations Assignment
+
 A hands-on practice repository for learning Git version control and GitHub workflows
 
 
