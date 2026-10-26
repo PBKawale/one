@@ -92,6 +92,9 @@ git push origin --delete g1
 
 🔗 Repository and Pull Request Links
 GitHub Repository: https://github.com/PBKawale/one.git
+Pull Request (g1 → main): Add your pull request URL here
+Pull Request (Fork → Original Repository): https://github.com/Pranav-pvt-ltd/assignment-1.git
+
 
 
 
